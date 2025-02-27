@@ -79,10 +79,59 @@ parallel development
 experimentation
 bug fixes
 code reviews
-Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
-Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+Roles;
+Pull requests are fundamental for code review and collaboration
+They create a space for discussion allowing team members to review the code and suggest improvements
+Facilitating code review and collaboration;
+they enable asynchronous code review to enable changes at convinience
+they provide a structured way to discuss specific lines of code and leave comments
+they provide knowledge sharing and help maintaining a consistent coding style across the project
+STEPS;
+create a branch
+make changes
+push the branch
+create a pull request
+code review
+address feedback
+merge the pull request
 
-Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+forking cretes a personal copy of the repository on your own github account which is independent from the original copy
+cloning creates a local copy of the repository on your computer which is linked to the original repository copy
+Differences;
+forking is done on Github servers side while cloning is done on the local machine
+forking creates a separate repository while cloning creates a local working copy of the existing repository
+Scenarios of use;
+contributing to open source
+experimenting with code
+creating your own version
 
-Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+9. Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+Importance;
+used to track bugs, feature requests, tasks, and other project related items
+used to organize and manage tasks visually to represent different stages of completion
+Tracking bugs and managing tasks;
+team members can report bugs by creating new issues which can be assigned to specific developers for resolution
+tasks can be created as issues and then moved across the project to provide a clear ovrview of the projects status
+Improving project organization;
+Labels- issues can be labeled to categorize them making it easier to filter and priotize tasks
+Milestones- issues can be assigned to milestones to track progress towards specific project goals
+Examples;
+a software development team uses issues to track bugs reported by users and assigns them to developers for fixing
+a project manager uses a project board to manage the tasks involved in a new feature release and assigning issues to team members and tracking their progress
+
+10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+Comomon pitfals;
+merge conflicts
+incorrect branching
+poor commit messages
+not pulling changes
+Strategies;
+clear branching strategy
+regular commits and pulls
+clear descriptive commit messages
+thorough code reviews
+effective communication
+education and training of new users
