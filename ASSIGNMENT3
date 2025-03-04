@@ -1,0 +1,121 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+Importance of Timely Delivery:
+
+Builds client trust and satisfaction.
+Avoids extra costs from delays.
+Aligns with market windows (especially in competitive industries).
+Reduces resource burnout and overlapping schedules.
+Ways to Ensure Deadlines are Met:
+
+Clear project scope and requirements from the start.
+Realistic timeline estimation (account for risks and buffers).
+Use project management tools (like Jira, Trello, Asana) for tracking progress.
+Regular status meetings and progress reviews.
+Effective team communication and task prioritization.
+Quick resolution of blockers or bottlenecks.
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Benefits of Cost Control:
+
+Prevents project financial failure.
+Ensures profitability for the company.
+Keeps stakeholders confident in project management capabilities.
+Strategies for Preventing Budget Overruns:
+
+Detailed project budgeting and regular cost tracking.
+Contingency planning (allocating funds for risks).
+Proper scope management to avoid unnecessary feature creep.
+Efficient resource allocation (avoiding overstaffing or underutilization).
+Vendor and procurement cost control.
+Continuous cost-benefit analysis during project lifecycle.
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Aspect	Agile	Waterfall
+Process	Iterative and incremental	Sequential and linear
+Flexibility	Highly adaptable to change	Rigid, difficult to modify once started
+Client Involvement	High (continuous feedback)	Low (mainly at the beginning and end)
+Delivery	Continuous delivery of small features	Final product delivered at the end
+Documentation	Lightweight, evolving	Comprehensive and upfront
+Advantages	Quick adaptation, early feedback, faster time to market	Clear structure, predictable outcomes
+Disadvantages	Scope creep risk, requires strong communication	Less flexible, late discovery of issues
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is better for:
+
+Dynamic projects with evolving requirements.
+Startups and innovation-focused software.
+Example: Developing a mobile app for social media where features may change based on user feedback.
+Waterfall is better for:
+
+Projects with stable, well-defined requirements.
+Regulatory or compliance-heavy systems.
+Example: Developing software for medical devices where strict documentation and compliance are mandatory.
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for QA:
+
+Implementing regular code reviews.
+Automated and manual testing (unit, integration, system).
+Continuous integration and deployment (CI/CD).
+Regular user acceptance testing (UAT).
+Maintaining clear coding standards and documentation.
+Importance of High Standards:
+
+Enhances user satisfaction.
+Reduces post-release defects and support costs.
+Protects the company’s reputation.
+Ensures compliance and reduces legal risks.
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining Project Scope:
+
+Prevents scope creep.
+Sets clear expectations with stakeholders.
+Guides resource allocation, scheduling, and budgeting.
+What is WBS?
+
+A hierarchical breakdown of all deliverables and tasks within a project.
+Each level drills down into more detailed tasks.
+Why is WBS Useful?
+
+Ensures nothing is overlooked.
+Helps in estimating time and cost.
+Provides a clear visual roadmap for the team.
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of a Detailed Schedule:
+
+Clear visibility of all tasks and timelines.
+Helps manage dependencies.
+Assists in identifying critical paths and potential delays.
+Improves resource management.
+Gantt Charts Help By:
+
+Providing a visual timeline.
+Showing task dependencies.
+Tracking progress and milestones.
+Easily communicating project status to stakeholders.
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Example (if building a Student Attendance App):
+
+Issues Addressed: Manual attendance taking is time-consuming and error-prone.
+Significance: Teachers want more teaching time, and students need accuracy in their records.
+9. How can clearly defining the problem help in developing a more effective software solution?
+Focuses development on solving the right pain points.
+Reduces unnecessary features (prevents feature bloat).
+Makes it easier to measure success.
+Helps communicate value proposition to stakeholders and users.
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Example (Attendance App):
+“Our software helps teachers save time and improve accuracy by automating attendance through facial recognition and smart analytics.”
+
+11. What are the main features or functionalities that make your software stand out?
+Example Features for Attendance App:
+
+Facial recognition for contactless attendance.
+Real-time attendance dashboard.
+Instant reporting and analytics.
+Integration with school management systems.
+12. What data is available regarding the market size and growth potential for your software?
+Education Technology Market: Estimated to grow at 15% annually.
+Increased demand: Schools are rapidly adopting digital solutions post-COVID.
+Global EdTech Market: Projected to reach $400 billion by 2027.
+13. How can understanding market trends inform your software’s positioning and development?
+Helps identify gaps competitors have missed.
+Informs pricing strategies (freemium, subscription, licensing).
+Helps prioritize features that align with current user demands.
+Guides marketing and branding efforts 
